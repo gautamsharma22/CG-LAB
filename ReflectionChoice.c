@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <conio.h>
 #include <graphics.h>
+// 150 150 150 180 180 150 200 200
 void main()
 {
     int x1, x2, x3, y1, y2, y3, i, j, k, xc, yc, op[3][3], ob[3][3], ob2[3][3];
